@@ -27,8 +27,11 @@ This repository includes two datasets from:
 ##### By combining these visualization techniques with the richness of the datasets provided, users can gain valuable insights and effectively communicate their findings. Whether you're a beginner or an experienced data scientist, this repository offers a wealth of resources to elevate your data visualization skills with R and Python.
 
 ###### Screenshots:
-![Rplot](https://github.com/srikavya26/Data-Visualization/assets/95865936/a46c6158-ebb1-42b9-8b83-62f626f08f70)
-![Timeseries](https://github.com/srikavya26/Data-Visualization/assets/95865936/b39bcae6-0395-4f3f-9adb-84c06ed51bcf)
-![facet](https://github.com/srikavya26/Data-Visualization/assets/95865936/b37c621f-7fb3-4d6e-bcb6-9d5e612cba25)
-![casestudy](https://github.com/srikavya26/Data-Visualization/assets/95865936/3a465425-e0a2-4c09-bb83-130686c8c174)
+
+![casestudy](https://github.com/srikavya26/Data-viz/assets/95865936/e81f0ed6-992e-45b0-92cf-e4957e045ee9)
+![facet](https://github.com/srikavya26/Data-viz/assets/95865936/d9721bea-6155-420b-ad6e-24d6514f008c)
+![Timeseries](https://github.com/srikavya26/Data-viz/assets/95865936/99abea83-5eb6-4a12-864a-acebf2392845)
+![Rplot](https://github.com/srikavya26/Data-viz/assets/95865936/95e820b5-519f-4898-a698-5bfb13c6c259)
+
+
 
